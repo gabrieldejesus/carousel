@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "next": "10.0.7",
+    "pure-react-carousel": "^1.27.6",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-icons": "^4.2.0"
   }
 }
